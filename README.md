@@ -36,7 +36,7 @@ QuranQuMVP/
 └── pseudocode_ml_pipeline.py # Simulasi alur CNN + NLP Transformer
 
 ## Prototipe UI
-Desain UI/UX prototipe dapat dilihat pada folder [`/mockup`](./mockup) atau melalui link Figma/Stitch: *(tempel link kamu di sini)*
+Desain UI/UX prototipe (8 layar: Onboarding, Home Dashboard, Module Selection, Speaking Exercise, AI Diagnosis Result, Progress, Profile & Gamification, Premium Upgrade) dapat dilihat pada file [`Screenshot 2026-07-24 112406.png`](./Screenshot%202026-07-24%20112406.png) di repository ini.
 
 ## Model Bisnis
 Freemium — akses gratis untuk latihan dasar, upgrade ke Premium untuk fitur AI diagnosis penuh (subscription bulanan/tahunan).
